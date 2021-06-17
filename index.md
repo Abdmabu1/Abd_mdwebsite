@@ -1,11 +1,16 @@
+
+
 ## What is a Portfolio
+
 ![Image](https://image.freepik.com/free-photo/young-man-checked-shirt-hat-making-asking-question-gesture-looking-puzzled-front-view_176474-30724.jpg)
 A portfolio is a compilation of materials that exemplifies your beliefs, skills, qualifications, education, training and experiences. It provides insight into your personality and work ethic.
 
 ##Why should I have a portfolio?
+
 The process of putting together a portfolio itself will help you become a more effective interviewee. You will be identifying the skills you have gained through your various experiences and how they relate to the career you are interested in. Choosing the most relevant experiences and putting them in an easily understood format will help you better articulate your skills and experiences when asked questions about your qualifications in an interview. A professional portfolio will also show an employer proof of your organizational, communication, and tangible career related skills.
 
 ##What should be included in my portfolio?
+
 Save everything you create and decide later what you want to include in your portfolio. A portfolio is a sample of your career related skills and experiences and should be presented in your own creative style. The following is typically included in a career portfolio:
 
 Statement of Originality: A paragraph stating that this is your work and that it is confidential. It should also indicate if any parts of the portfolio should not be copied.
@@ -16,7 +21,7 @@ Resume: (add Resume Writing link)
 Skill Areas: Identify three to five of the major skill set areas you have that would be important for someone in your career field to have. Examples include: Management, Computer Skills, Public Relations, Leadership, Accounting, Communications, and Customer Service. Next, select or request letters of recommendation and specific work samples or projects that exemplify these skill sets. Sources of work samples include classroom projects, materials generated on the job or during an internship/co-op experience, materials from community service, volunteer work, campus clubs and organizations and professional memberships.
 
 
-[Link](url) and ![Image]()
+
 
 
 
