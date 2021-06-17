@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## What is a Portfolio
+![Image](https://image.freepik.com/free-photo/young-man-checked-shirt-hat-making-asking-question-gesture-looking-puzzled-front-view_176474-30724.jpg)
+A portfolio is a compilation of materials that exemplifies your beliefs, skills, qualifications, education, training and experiences. It provides insight into your personality and work ethic.
 
-You can use the [editor on GitHub](https://github.com/Abdmabu1/Abd_mdwebsite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+##Why should I have a portfolio?
+The process of putting together a portfolio itself will help you become a more effective interviewee. You will be identifying the skills you have gained through your various experiences and how they relate to the career you are interested in. Choosing the most relevant experiences and putting them in an easily understood format will help you better articulate your skills and experiences when asked questions about your qualifications in an interview. A professional portfolio will also show an employer proof of your organizational, communication, and tangible career related skills.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##What should be included in my portfolio?
+Save everything you create and decide later what you want to include in your portfolio. A portfolio is a sample of your career related skills and experiences and should be presented in your own creative style. The following is typically included in a career portfolio:
 
-### Markdown
+Statement of Originality: A paragraph stating that this is your work and that it is confidential. It should also indicate if any parts of the portfolio should not be copied.
+Example: Statement of Originality and ConfidentialityThis portfolio is the work of James Cook. Please do not copy without permission. Some of the exhibits, work samples, and/or service samples are the proprietary property of the organization whose name appears on the document. Each has granted permission for this product to be used as a demonstration of my work.
+Work Philosophy: A brief description of your beliefs about yourself and the industry.
+Career Goals: Your professional goals for the next five years.
+Resume: (add Resume Writing link)
+Skill Areas: Identify three to five of the major skill set areas you have that would be important for someone in your career field to have. Examples include: Management, Computer Skills, Public Relations, Leadership, Accounting, Communications, and Customer Service. Next, select or request letters of recommendation and specific work samples or projects that exemplify these skill sets. Sources of work samples include classroom projects, materials generated on the job or during an internship/co-op experience, materials from community service, volunteer work, campus clubs and organizations and professional memberships.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+[Link](url) and ![Image]()
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Abdmabu1/Abd_mdwebsite/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
